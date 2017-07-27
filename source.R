@@ -2,6 +2,8 @@
 ## HMM 
 ## own sequence prediction algo 
 
+## change at 8:05 pm 
+
 
 setwd("C:\\Users\\ss13522\\Documents\\kaggle_insta\\")
 
